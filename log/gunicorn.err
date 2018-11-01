@@ -1,0 +1,20 @@
+
+
+/bin/gunicorn_start.sh: line 16: activate: No such file or directory
+/bin/gunicorn_start.sh: line 27: exec: gunicorn: not found
+/bin/gunicorn_start.sh: line 16: activate: No such file or directory
+/bin/gunicorn_start.sh: line 27: exec: gunicorn: not found
+/usr/bin/gunicorn_start.sh: line 16: activate: No such file or directory
+/usr/bin/gunicorn_start.sh: line 27: exec: gunicorn: not found
+/usr/bin/gunicorn_start.sh: line 16: activate: No such file or directory
+/usr/bin/gunicorn_start.sh: line 27: exec: gunicorn: not found
+/usr/bin/gunicorn_start.sh: line 16: activate: No such file or directory
+/usr/bin/gunicorn_start.sh: line 27: exec: gunicorn: not found
+/usr/bin/gunicorn_start.sh: line 16: activate: No such file or directory
+/usr/bin/gunicorn_start.sh: line 27: exec: gunicorn: not found
+/usr/bin/gunicorn_start.sh: line 16: activate: No such file or directory
+/usr/bin/gunicorn_start.sh: line 27: exec: gunicorn: not found
+/usr/bin/gunicorn_start.sh: line 16: activate: No such file or directory
+/usr/bin/gunicorn_start.sh: line 27: exec: gunicorn: not found
+/usr/bin/gunicorn_start.sh: line 16: activate: No such file or directory
+/usr/bin/gunicorn_start.sh: line 27: exec: gunicorn: not found
